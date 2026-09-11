@@ -1,0 +1,12 @@
+{
+  "name": "desafio-terra-fertil",
+  "version": "1.0.0",
+  "description": "Desafio de Codificação - Projeto Terra Fértil",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vitest": "^1.4.0"
+  }
+}
